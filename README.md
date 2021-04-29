@@ -2,7 +2,7 @@
   to.do
 </h3>
 
-<blockquote align="center">Win challenges, earn points and level up!</blockquote>
+<blockquote align="center">Organize your tasks!</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Juliamello8/ignite-desafio1?color=%2304D361">
@@ -28,7 +28,7 @@
 
 ## :rocket: About the app
 
-It is a simple project to create tasks. It was developed to put my knowledge about ReactJS, components and states into practice. Challenge launched by Rocketseat on the ignite trail of ReactJS.
+It is a simple project to create tasks. It was developed to put my knowledge about ReactJS, components and states into practice.
 
 ## :memo: Technologies
 
